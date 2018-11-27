@@ -1,6 +1,4 @@
 # FFWeekCalender
-https://www.jianshu.com/p/0430de4bfc38
-
 自定义周日历(WeekCalender),左右滑动,可扩展性高,使用简单,会一直优化,扩展
 ![演示图](https://github.com/fengzifeng/FFWeekCalender/blob/master/FFWeekCalender/weekCalender.gif)
 
@@ -19,3 +17,5 @@ https://www.jianshu.com/p/0430de4bfc38
 - (void)reloadCalender;
 
 4.weekCalender.chooseDates选择多个日期标记.它是个数组,元素是NSDate
+
+https://www.jianshu.com/p/0430de4bfc38
