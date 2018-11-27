@@ -18,4 +18,6 @@
 
 4.weekCalender.chooseDates选择多个日期标记.它是个数组,元素是NSDate
 
+欢迎提问题,star
+
 https://www.jianshu.com/p/0430de4bfc38
