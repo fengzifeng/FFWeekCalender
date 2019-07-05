@@ -23,6 +23,7 @@
     weekCalender.currentDate = [NSDate date];
     [weekCalender reloadCalender];
     [self.view addSubview:weekCalender];
+    
 }
 
 
